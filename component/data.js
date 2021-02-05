@@ -3,7 +3,7 @@
 const data = [
     {
         id: 1,
-        image: '../styles/images/Screenshot 2020-07-31 at 8.49.38 PM.png',
+        image: 'https://images.unsplash.com/photo-1517146783983-418c681b56c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
         name: 'silk_Saree',
         price: '500.00',
         product: [
@@ -15,7 +15,7 @@ const data = [
     },
     {
         id: 2,
-        image: '../styles/images/Screenshot 2020-07-31 at 3.08.35 PM.png',
+        image: 'https://images.unsplash.com/photo-1517146783983-418c681b56c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
         name: 'simple_Lucknowi',
         price: '100.00',
         product: [
@@ -27,7 +27,7 @@ const data = [
     },
     {
         id: 3,
-        image: '../styles/images/Screenshot 2020-07-31 at 3.10.36 PM.png',
+        image: 'https://images.unsplash.com/photo-1517146783983-418c681b56c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
         name: 'silk_Saree',
         price: '500.00',
         product: [
@@ -39,7 +39,7 @@ const data = [
     },
     {
         id: 4,
-        image: '../styles/images/Screenshot 2020-07-31 at 3.11.38 PM.png',
+        image: 'https://images.unsplash.com/photo-1517146783983-418c681b56c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
         name: 'simple_Lucknowi',
         price: '100.00',
         product: [
@@ -51,7 +51,7 @@ const data = [
     },
     {
         id: 5,
-        image: '../styles/images/Screenshot 2020-07-31 at 3.11.39 PM.png',
+        image: 'https://images.unsplash.com/photo-1517146783983-418c681b56c5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
         name: 'simple_Lucknowi',
         price: '100.00',
         product: [
